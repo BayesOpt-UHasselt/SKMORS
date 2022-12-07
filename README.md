@@ -1,5 +1,6 @@
 # SKMORS
 Multiobjective Ranking and Selection Using Stochastic Kriging
+
 Source code for the SK-MORS algorithm
 
 Copyright 2022 Sebastian Rojas Gonzalez
